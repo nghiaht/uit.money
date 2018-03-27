@@ -1,5 +1,7 @@
 # Where is my money?
 
+[![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/phamhongphuc/uit.money.svg)](http://isitmaintained.com/project/phamhongphuc/uit.money "Average time to resolve an issue") [![Percentage of issues still open](http://isitmaintained.com/badge/open/phamhongphuc/uit.money.svg)](http://isitmaintained.com/project/phamhongphuc/uit.money "Percentage of issues still open")
+
 Welcome to open source Android app!
 
 ## Getting Started
