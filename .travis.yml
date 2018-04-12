@@ -1,15 +1,13 @@
 language: android
 jdk: oraclejdk8
-env:
-  global:
-    - ANDROID_TARGET=android-15
-    - ANDROID_ABI=armeabi-v7a
+sudo: false
+
 android:
   components:
   - tools
   - platform-tools
-  - build-tools-26.0.2
-  - android-26
+  - build-tools-27.0.3
+  - android-27
 
   - extra-google-google_play_services
   - extra-google-m2repository

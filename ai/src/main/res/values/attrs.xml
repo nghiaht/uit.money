@@ -22,4 +22,8 @@
             <enum name="medium" value="2"/>
         </attr>
     </declare-styleable>
+    <declare-styleable name="TextInput" parent="View">
+        <attr name="_autoSize" format="boolean"/>
+        <attr name="_font"/>
+    </declare-styleable>
 </resources>
