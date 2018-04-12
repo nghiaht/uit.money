@@ -1,4 +1,4 @@
-package e.ai.lib;
+package ai.ai.lib;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

@@ -1,4 +1,4 @@
-package e.ai.lib;
+package ai.ai.lib;
 
 import org.junit.Test;
 
