@@ -5,8 +5,8 @@ sudo: false
 android:
   components:
   # Use the latest revision of Android SDK Tools
-  - platform-tools
-  - tools
+  # - platform-tools
+  # - tools
 
   # The BuildTools version used by your project
   - build-tools-27.0.3
